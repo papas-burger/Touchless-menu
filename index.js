@@ -9,3 +9,7 @@ function openInstagramPage() {
 function openFacebookPage() {
   window.location = "https://www.facebook.com/papa.burger.sc"
 }
+
+function openMapLocation() {
+  window.location = "https://www.google.com/maps/dir//30.3647316,30.5305542/@30.364732,30.530554,14z?hl=en"
+}
