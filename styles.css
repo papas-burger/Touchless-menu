@@ -13,3 +13,27 @@ body {
   width: 80%;
   height: 80%;
 }
+
+/* FOOTER SECTION */
+#footer {
+  text-align: center;
+  background-color: #431F13;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.copyright-text {
+  color: white;
+  font-size: 1.3rem;
+}
+
+.flag {
+  color: white;
+  margin-bottom: 15px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.flag:hover {
+  cursor: pointer;
+}
